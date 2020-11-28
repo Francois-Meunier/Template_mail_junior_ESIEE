@@ -1,4 +1,4 @@
-# Dashboard : 120 ans de Jeux Olympiques*
+# Template mail Junior ESIEE
 
 ## Introduction
 
@@ -14,8 +14,6 @@ Clic droit sur le fichier → ‘ouvrir avec’ → ‘google chrome’
     
 ![png](readme_img/2dossier.PNG)
 
- &nbsp;   
-
 N.B. Tout autre navigateur fonctionnera, vous pouvez aussi l’ouvrir avec un éditeur de code.<br/>
 <br/>
 Une fois le template affiché, clic droit sur la page → ‘afficher le code source de la 'page'
@@ -23,16 +21,12 @@ Une fois le template affiché, clic droit sur la page → ‘afficher le code so
  &nbsp;         
     
 ![png](readme_img/3chrome.PNG)
-
- &nbsp;
  
 Un nouvel onglet s’ouvre, il faut sélectionner tout le code (Ctrl + A) puis copier.
 
  &nbsp;         
     
 ![png](readme_img/4chrome.PNG)
-
- &nbsp;
 
 N.B. Si vous avez ouvert le fichier avec un éditeur de code, il vous suffit de copier l’intégralité du code, sans avoir à passer par un navigateur pour cette étape.<br/>
 <br/>
@@ -41,16 +35,12 @@ Rendez-vous ensuite dans **Gmail** sur votre adresse @junioresiee.com puis cliqu
  &nbsp;         
     
 ![png](readme_img/5mail.PNG)
-
- &nbsp;
  
 La fenêtre du nouveau mail s’affiche en bas à droite, il est **impératif de l’agrandir**.
  
  &nbsp;         
     
 ![png](readme_img/6mail.PNG)
-
- &nbsp;
  
 Ensuite, écrivez 2-3 lettres (peu importe ce que vous écrivez) et **centrez le texte**.
  
@@ -58,15 +48,11 @@ Ensuite, écrivez 2-3 lettres (peu importe ce que vous écrivez) et **centrez le
     
 ![png](readme_img/7mail.PNG)
 
- &nbsp;
-
 Sélectionnez le texte puis clic droit → ‘inspecter’
 
  &nbsp;         
     
 ![png](readme_img/8mail.PNG)
-
- &nbsp;
  
 La fenêtre d’inspection du code HTML de la page s’ouvre sur votre droite avec la partie du code correspondant à ce que vous avez écrit **déjà sélectionnée**.<br/>
 Faites : clic droit → ‘Edit as HTML’
@@ -74,40 +60,30 @@ Faites : clic droit → ‘Edit as HTML’
  &nbsp;         
     
 ![png](readme_img/9mail.PNG)
-
- &nbsp;
  
 **Sélectionnez tout** puis **collez** (vous collez donc le code HTML du template).
  
  &nbsp;         
     
 ![png](readme_img/10mail.PNG)
-
- &nbsp;
  
 Cliquez n’importe où dans la fenêtre d’inspection, comme sur l’exemple ci-dessous. Ce afin que **le mail s’actualise**.
  
  &nbsp;         
     
 ![png](readme_img/11cliquermail.PNG)
-
- &nbsp;
  
 Vous pouvez maintenant **éditer** le mail, en changeant ce qui est écrit dans le template. Vous pouvez changer la couleur du texte, mettre en gras, etc. 
 
  &nbsp;         
     
 ![png](readme_img/12editer_mail.PNG)
-
- &nbsp;
  
 Ensuite, n’oubliez pas de **changer** en bas du mail **l’adresse mail à contacter** par celle du chef de projet en charge de la potentielle étude.
  
  &nbsp;         
     
 ![png](readme_img/13fin.PNG)
-
- &nbsp;
  
 Il est possible que les 3 colonnes récapitulant les informations principales ne correspondent pas à ce que vous avez pour votre étude (on ne connait pas toujours la rémunération estimée ni la durée de l’étude) mais vous pouvez les changer, voire les supprimer. C’est un plus pour que l’on retienne les principales caractéristiques de l’étude.<br/>
 Il ne vous reste plus qu’à **relire** et à **envoyer** le mail.
